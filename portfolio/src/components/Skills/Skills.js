@@ -8,7 +8,7 @@ function Skills() {
     return (
         <section id="skills">
             <span className='skillTitle'>What I do</span>
-            <span className='skillDesc'>I am a skilled and passionate web designert with experience creating visually appealing and responsive designs</span>
+            <span className='skillDesc'>I am a skilled and passionate web designer with experience creating visually appealing and responsive designs</span>
             <div className='skillBars'>
                 <div className='skillBar'>
                     <img src={UIDesign} alt="UIDesign" className='skillBrImg' />
